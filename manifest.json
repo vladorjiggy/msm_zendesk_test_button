@@ -1,0 +1,49 @@
+{
+  "name": "MSM Zendesk",
+  "author": {
+    "name": "Vladislav Fetisov",
+    "email": "v.fetisov@vanbruda.de",
+    "url": "https://vanbruda.de"
+  },
+  "defaultLocale": "de",
+  "location": {
+    "support": {
+      "ticket_sidebar": "assets/index.html"
+    }
+  },
+  "parameters": [
+    
+    {
+      "name": "msm_url_live",
+      "type": "text",
+      "default": "https://ilvy.info"
+    },
+    {
+      "name": "msm_url_localhost",
+      "type": "text",
+      "default": "http://localhost:8080"
+    },
+    {
+      "name": "product_field",
+      "type": "number",
+      "default": 26426621
+    },
+    {
+      "name": "current_ilvy_field",
+      "type": "number",
+      "default": 26458592
+    },
+    {
+      "name": "ilvy_language",
+      "type": "number",
+      "default": 40109269
+    },
+    {
+      "name": "channel",
+      "type": "number",
+      "default": 27630141
+    }
+  ],
+  "version": "1.0",
+  "frameworkVersion": "2.0"
+}
