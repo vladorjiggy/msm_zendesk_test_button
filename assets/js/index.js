@@ -41,5 +41,5 @@ $(function() {
     window.open(url, '_blank')
   }
   document.getElementById("open_msm_live").addEventListener('click', () => getData(msm_url_live))
-  //document.getElementById("open_msm_localhost").addEventListener('click', () => getData(msm_url_localhost))
+  document.getElementById("open_msm_localhost").addEventListener('click', () => getData(msm_url_localhost))
 })
