@@ -1,7 +1,7 @@
 $(function() {
 
   const client = ZAFClient.init()
-  client.invoke('resize', { height: '65px' });
+  client.invoke('resize', { height: '110px' });
 
   let msm_url_live, msm_url_localhost, ticket_id, product, parameters, sprache, channel
 
