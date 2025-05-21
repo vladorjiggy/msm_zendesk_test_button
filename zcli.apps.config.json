@@ -1,0 +1,10 @@
+{
+    "parameters": {
+        "msm_url_live": "https://ilvy.support",
+        "msm_url_localhost": "http://localhost:8080",
+        "product_field": 26426621,
+        "current_ilvy_field": 26458592,
+        "ilvy_language": 40109269,
+        "channel": 27630141
+    }
+}
